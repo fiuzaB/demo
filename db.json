@@ -1,7 +1,9 @@
 {
-  "options": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "menu": [
+    { "id": 1, "option": "Carteira" },
+    { "id": 2, "option": "Perfil" },
+    { "id": 3, "option": "Integrações" },
+    { "id": 4, "option": "Monitor" },
+    { "id": 5, "option": "Formulário" },
   ]
 }
