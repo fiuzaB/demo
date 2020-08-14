@@ -21,7 +21,12 @@
 					"Option": "Integração EK7",
 					"SubItemId": 2,
 					"SubItems": [{
-						"Option": "Integração manual"
+						"Option": "Integração manual",
+						"SubItems": [{
+							"Option": "Por TXT"
+						}, {
+							"Option": "Por CSV"
+						}]
 					}]
 				}
 			]
