@@ -9,7 +9,18 @@
 		},
 		{
 			"Id": 3,
-			"Option": "Integrações"
+			"Option": "Integrações",
+			"SubItems": [{
+					"Id": 6,
+					"Option": "Integração BA8",
+					"SubItemId": 1
+				},
+				{
+					"Id": 7,
+					"Option": "Integração EK7",
+					"SubItemId": 2
+				}
+			]
 		},
 		{
 			"Id": 4,
@@ -18,16 +29,6 @@
 		{
 			"Id": 5,
 			"Option": "Formulário"
-		},
-		{
-			"Id": 6,
-			"Option": "Integração BA8",
-			"SubItemId": 3
-		},
-		{
-			"Id": 7,
-			"Option": "Integração EK7",
-			"SubItemId": 3
 		}
 	]
 }
