@@ -11,12 +11,10 @@
 			"Id": 3,
 			"Option": "Integrações",
 			"SubItems": [{
-					"ItemId": 3,
 					"Option": "Integração BA8",
 					"SubItemId": 1
 				},
 				{
-					"ItemId": 3,
 					"Option": "Integração EK7",
 					"SubItemId": 2
 				}
