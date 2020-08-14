@@ -12,11 +12,17 @@
 			"Option": "Integrações",
 			"SubItems": [{
 					"Option": "Integração BA8",
-					"SubItemId": 1
+					"SubItemId": 1,
+					"SubItems": [{
+						"Option": "Integração manual"
+					}]
 				},
 				{
 					"Option": "Integração EK7",
-					"SubItemId": 2
+					"SubItemId": 2,
+					"SubItems": [{
+						"Option": "Integração manual"
+					}]
 				}
 			]
 		},
