@@ -4,6 +4,8 @@
     { "Id": 2, "Option": "Perfil" },
     { "Id": 3, "Option": "Integrações" },
     { "Id": 4, "Option": "Monitor" },
-    { "Id": 5, "Option": "Formulário" }
+    { "Id": 5, "Option": "Formulário" },
+    { "Id": 6, "Option": "Integração BA8", "SubItem": "Integrações" },
+    { "Id": 7, "Option": "Integração EK7", "SubItem": "Integrações" },
   ]
 }
