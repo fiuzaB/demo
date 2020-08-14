@@ -1,9 +1,9 @@
 {
-  "menu": [
-    { "id": 1, "option": "Carteira" },
-    { "id": 2, "option": "Perfil" },
-    { "id": 3, "option": "Integrações" },
-    { "id": 4, "option": "Monitor" },
-    { "id": 5, "option": "Formulário" }
+  "Menu": [
+    { "Id": 1, "Option": "Carteira" },
+    { "Id": 2, "Option": "Perfil" },
+    { "Id": 3, "Option": "Integrações" },
+    { "Id": 4, "Option": "Monitor" },
+    { "Id": 5, "Option": "Formulário" }
   ]
 }
