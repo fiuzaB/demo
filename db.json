@@ -1,6 +1,6 @@
 {
   "Menu": [
-    { "Id": 1, "Option": "Carteira" },
+   
     { "Id": 2, "Option": "Perfil" },
     { "Id": 3, "Option": "Integrações" },
     { "Id": 4, "Option": "Monitor" },
