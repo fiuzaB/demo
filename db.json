@@ -14,14 +14,14 @@
 					"Option": "Integração BA8",
 					"SubItemId": 1,
 					"SubItems": [{
-						"Option": "Integração manual"
+						"Option": "Integração manual BA8"
 					}]
 				},
 				{
 					"Option": "Integração EK7",
 					"SubItemId": 2,
 					"SubItems": [{
-						"Option": "Integração manual",
+						"Option": "Integração manual EK7",
 						"SubItems": [{
 							"Option": "Por TXT"
 						}, {
