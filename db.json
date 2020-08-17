@@ -29,7 +29,7 @@
 							"SubItems": [{
 								"Option": "Separado por ;"
 							}, {
-								"Option": "Separado por espaço"
+								"Option": "Separado por space"
 							}]
 						}]
 					}]
