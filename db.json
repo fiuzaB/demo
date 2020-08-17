@@ -25,7 +25,12 @@
 						"SubItems": [{
 							"Option": "Por TXT"
 						}, {
-							"Option": "Por CSV"
+							"Option": "Por CSV",
+							"SubItems": [{
+								"Option": "Separado por ;"
+							}, {
+								"Option": "Separado por espaço"
+							}]
 						}]
 					}]
 				}
