@@ -5,7 +5,10 @@
 		},
 		{
 			"Id": 2,
-			"Option": "Perfil"
+			"Option": "Perfil",
+			"SubItems": [{
+				"Option": "Endereço"
+			}]
 		},
 		{
 			"Id": 3,
@@ -29,7 +32,7 @@
 							"SubItems": [{
 								"Option": "Separado por ;"
 							}, {
-								"Option": "Separado por space"
+								"Option": "Separado por espaço"
 							}]
 						}]
 					}]
